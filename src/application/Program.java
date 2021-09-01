@@ -8,6 +8,7 @@ import java.util.Scanner;
 import entities.Client;
 import entities.OrderItem;
 import entities.Product;
+import entities.Order;
 
 public class Program {
 
