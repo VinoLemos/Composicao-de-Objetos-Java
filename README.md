@@ -13,3 +13,5 @@ Enunciado do exercício:
 	 pedido conforme exemplo (próxima página). Nota: o instante do pedido deve ser o instante do 
 	 sistema.
 
+Link do exercício corrigido pelo professor Nélio Alves:
+https://www.youtube.com/watch?v=gj80JEqk5ms
