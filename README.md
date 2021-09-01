@@ -6,3 +6,10 @@ Link do curso: https://www.udemy.com/share/101scA3@5yALJm4cAF3Bn2Yx_zx1hAZNuFmFG
 Futuramente farei mais cursos voltados à diversas áreas da tecnologia.
 
 Se tiver alguma dica ou critica construtiva, ficarei feliz em ouvi-lo(a)
+
+Enunciado do exercício: 
+
+	Ler os dados de um pedido com N itens (N fornecido pelo usuário). Depois, mostrar um sumário do 
+	 pedido conforme exemplo (próxima página). Nota: o instante do pedido deve ser o instante do 
+	 sistema.
+
