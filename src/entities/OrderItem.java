@@ -45,7 +45,7 @@ public class OrderItem {
 	}
 	@Override
 	public String toString() {
-		
+// Retorna informações do produto e subtotal em forma de string		
 		return getProduct().getName() 
 				+ ", $"
 				+ String.format("%.2f", price)
