@@ -17,7 +17,7 @@ public class Order {
 //Cada pedido é associado a um cliente	
 	private Client client;
 
-//Cada pedido podem ter vários itens, portanto, é preciso criar uma coleção (lista) de pedidos
+//Cada pedido pode ter vários itens, portanto, é preciso criar uma coleção (lista) de pedidos
 //			Lista de objetos do tipo OrderItem	
 	private List<OrderItem> items = new ArrayList<OrderItem>();
 
